@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Jarvis
+pvr.hdhomerun https://github.com/koying/pvr.hdhomerun Jarvis
