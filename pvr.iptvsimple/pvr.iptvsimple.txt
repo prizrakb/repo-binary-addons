@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple Jarvis
+pvr.iptvsimple https://github.com/prizrakb/pvr.iptvsimple Jarvis
